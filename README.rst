@@ -1,4 +1,4 @@
-testcases - The OPNFV Integration Test Suite
+testcases - The OPNFV System Level Test Suite
 ==============================================
 
 This is a set of functional tests to be run against a live OPNFV cluster.
