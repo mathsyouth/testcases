@@ -49,8 +49,7 @@ Testcases where to find the various OpenStack services and other testing behavio
 
 .. _testr: https://testrepository.readthedocs.org/en/latest/MANUAL.html
 .. _ostestr: http://docs.openstack.org/developer/os-testr/
-.. _tempest-configuration:
-http://docs.openstack.org/developer/tempest/configuration.html
+.. _tempest-configuration: http://docs.openstack.org/developer/tempest/configuration.html
 
 Configuration
 -------------
@@ -65,5 +64,4 @@ command from the top level of the testcases directory::
 The most important pieces that are needed are the user ids, openstack
 endpoint, and basic flavors and images needed to run tests.
 
-.. _tempest-configuration:
-http://docs.openstack.org/developer/tempest/configuration.html
+.. _tempest-configuration: http://docs.openstack.org/developer/tempest/configuration.html
